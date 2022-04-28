@@ -9,16 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/thin-backend": "https://thin.dev/ShowTypescriptDeclarationFile?typescriptDeclarationFileId=895d99dd-c461-4282-8e4e-07629b30abd4&accessToken=VJkchAyOAwVpWxMQCWUSdKRfaPZpaXRl",
-    "next": "12.0.7",
+    "@heroicons/react": "^1.0.6",
+    "@shopify/react-form": "^1.1.19",
+    "@types/thin-backend": "https://thin.dev/ShowTypescriptDeclarationFile?typescriptDeclarationFileId=d7540d89-7a5e-468a-82d2-be573b79dab9&accessToken=KJAkmygLwbMGCrLidrTAAJMZIBNefmoF",
+    "next": "^12.1.5",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "thin-backend": "*"
   },
   "devDependencies": {
+    "@tailwindcss/forms": "^0.5.0",
+    "@types/node": "^17.0.29",
     "@types/react": "17.0.37",
+    "autoprefixer": "^10.4.5",
     "eslint": "8.5.0",
     "eslint-config-next": "12.0.7",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24",
     "typescript": "4.5.4"
   }
 }
